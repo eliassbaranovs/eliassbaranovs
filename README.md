@@ -1,6 +1,7 @@
+# ![Header](./github-header-image.png)
+
 # 💫 About Me:
 I'm currently working on developing new skills in front-end development.<br>I'm currently learning React.<br>I'm currently looking for a junior front-end developer position to get hands-on experience.
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/eliass.baranovs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eliass-baranovs-45784910b) 
